@@ -1,0 +1,4 @@
+X = 5
+y = 9
+z = z * y
+print(z)
